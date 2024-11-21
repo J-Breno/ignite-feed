@@ -18,7 +18,7 @@ export function Comment() {
                 Cerca de 1h atrás
               </time>
             </div>
-            <button title="Deletar comentário"><Trash size={20}/></button>
+            <button title="Deletar comentário"><Trash size={24}/></button>
           </header>
           <p>Muito bom Devon, parabéns!! 👏👏</p>
         </div>
